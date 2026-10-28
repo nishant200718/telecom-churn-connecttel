@@ -1,0 +1,37 @@
+{
+  "roc_auc": 0.8457,
+  "default_threshold": {
+    "threshold": 0.5,
+    "accuracy": 0.7999,
+    "precision": 0.6608,
+    "recall": 0.5053,
+    "f1": 0.5727,
+    "confusion_matrix": [
+      [
+        938,
+        97
+      ],
+      [
+        185,
+        189
+      ]
+    ]
+  },
+  "business_retention_threshold": {
+    "threshold": 0.28,
+    "accuracy": 0.7438,
+    "precision": 0.5112,
+    "recall": 0.7914,
+    "f1": 0.6212,
+    "confusion_matrix": [
+      [
+        752,
+        283
+      ],
+      [
+        78,
+        296
+      ]
+    ]
+  }
+}
